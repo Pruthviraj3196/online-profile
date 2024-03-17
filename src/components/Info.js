@@ -5,7 +5,7 @@ const Info = () => {
   return (
     <div>
         <div>
-            <img className='pic' src='https://phantom-marca.unidadeditorial.es/5ac7999497c0f0253a71229a5ee6c172/assets/multimedia/imagenes/2021/02/08/16127772858721.jpg'></img>
+            <img className='pic' src='https://pics.craiyon.com/2023-11-26/oMNPpACzTtO5OVERUZwh3Q.webp'></img>
             <h2>Pruthviraj Barbole</h2>
             <p>Hello World</p>
         </div>
